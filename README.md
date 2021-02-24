@@ -1,8 +1,8 @@
-# MEMBUAT 
-
-# Disini Kita akan membuat pemanggilan API (POST) Dengan Fake API
-- disini kita menggunakan AXIOS untuk pemanggilan POST API
-- yang akan kita POST disini adalah data dummy yang sudah kita siapkan di file root 'db.json'
+# ReactJS Membuat kita bisa berpindah antar halaman dengan react router
+- menginstall library react router dom (https://reactrouter.com/web/guides/quick-start)
+- menginstall library react router 
+  - npm install react-router (jika menggunakan npm)
+  - yarn add react-router (jika menggunakan yarn) 
 
 # Getting Started with Create React App
 
